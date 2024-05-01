@@ -1,6 +1,6 @@
 # ML-homeworks-1-2
 
-- Reporst of [1](./1/report_03-12-2023.pdf) and [2](./2/yusupha-juwara-matricola.pdf)
+- Reports of [1](./1/report_03-12-2023.pdf) and [2](./2/yusupha-juwara-matricola.pdf)
 
 ## Homework 1
 
