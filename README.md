@@ -5,7 +5,7 @@
 ## Homework 1
 
 - In this homework, you are invited to provide solutions for two 10-class classification problems with medium and large input space.
-- The two datasets are available in this [folder](https://drive.google.com/drive/folders/)
+- The two datasets are available in this [folder](https://drive.google.com/drive/folders/1JHEfzsdQchFzpT9D__iIgYz4q5VwjW1g )
 - To solve the problem, you can use any method, any tool, any programming language. Exception: you cannot use solutions based on neural networks, as this will be the topic of Homework 2. It is your choice to pre-process the input data in any way it is useful for the method you are using.
 
 ## Homework 2

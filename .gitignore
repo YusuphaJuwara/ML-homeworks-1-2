@@ -1,4 +1,6 @@
 *.zip
+
+# These two files are more than 100MB in size
 dataset2.csv
 dataset1.csv
 
